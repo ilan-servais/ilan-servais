@@ -73,10 +73,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ilan-servais/ilan-servais/output/snake.svg" alt="Snake animation" />
-
-###
-
 <p align="left">> ⚠️ The contribution graph doesn't reflect all my activity — I regularly work on private projects and branches not counted here.</p>
 
 ###
