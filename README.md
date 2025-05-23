@@ -73,20 +73,10 @@
 
 ###
 
-<p align="left"><em>⚠️ The contribution graph doesn't reflect all my activity — I regularly work on private projects and branches not counted here.</em></p>
+<img src="https://raw.githubusercontent.com/ilan-servais/ilan-servais/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilan-servais/ilan-servais/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilan-servais/ilan-servais/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ilan-servais/ilan-servais/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ilan-servais/count.svg?"  />
-</div>
+<p align="left">> ⚠️ The contribution graph doesn't reflect all my activity — I regularly work on private projects and branches not counted here.</p>
 
 ###
