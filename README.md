@@ -59,6 +59,6 @@
 
 ###
 
-<p align="left">> ⚠️ The contribution graph doesn't reflect all my activity — I regularly work on private projects and branches not counted here.</p>
+<p align="left">> ⚠️ The contribution graph doesn't reflect all my activity — I regularly work on private projects.</p>
 
 ###
